@@ -6,3 +6,5 @@ IP-CIDR,46.3.101.196/32,no-resolve
 IP-CIDR,54.255.161.137/32,no-resolve
 # CHRROS
 IP-CIDR6,2407:cdc0:d008::1000:b6/128,no-resolve
+# yxvm
+DOMAIN-SUFFIX,yxvm.com
