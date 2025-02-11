@@ -13,7 +13,7 @@ IP-CIDR,154.29.145.151/32,no-resolve  //4837 http://154.29.145.151:50632
 IP-CIDR,141.11.175.105/32,no-resolve  //HK http://141.11.175.105:10010
 DOMAIN,emby-e-hk.pppp.us.kg //HK02 https://emby-e-hk.pppp.us.kg:443
 DOMAIN,emby-e-jp.pppp.us.kg //日本软银 https://emby-e-jp.pppp.us.kg:443
-IP-CIDR,156.229.165.55,no-resolve  //US http://156.229.165.55:10010
+IP-CIDR,156.229.165.55/32,no-resolve  //US http://156.229.165.55:10010
 
 # HXD
 DOMAIN,as174.de //自建CDN https://hxd.as174.de:443
