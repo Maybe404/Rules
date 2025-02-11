@@ -1,0 +1,24 @@
+#Emby代理
+
+# Aikan
+DOMAIN-SUFFIX,aikan.cloud
+DOMAIN-SUFFIX,aikan.la
+
+# 鹅服
+DOMAIN,cavps.eu.org //CF https://cavps.eu.org:443
+IP-CIDR,50.114.55.29/32,no-resolve //SG http://50.114.55.29:10010 
+DOMAIN,wmxz.567996.xyz //首尔 http://wmxz.567996.xyz:80
+DOMAIN,emby.pppp.us.kg //日本 https://emby.pppp.us.kg:443
+IP-CIDR,154.29.145.151/32,no-resolve  //4837 http://154.29.145.151:50632
+IP-CIDR,141.11.175.105/32,no-resolve  //HK http://141.11.175.105:10010
+DOMAIN,emby-e-hk.pppp.us.kg //HK02 https://emby-e-hk.pppp.us.kg:443
+DOMAIN,emby-e-jp.pppp.us.kg //日本软银 https://emby-e-jp.pppp.us.kg:443
+IP-CIDR,156.229.165.55,no-resolve  //US http://156.229.165.55:10010
+
+# HXD
+DOMAIN,as174.de //自建CDN https://hxd.as174.de:443
+DOMAIN,cf.bili.rip //CF路线 https://cf.bili.rip:8443
+DOMAIN,emby.as174.de //Porn https://emby.as174.de:443
+
+# 守候影院
+DOMAIN,emby.cn2gias.uk //http://emby.cn2gias.uk:80,https://emby.cn2gias.uk:443
