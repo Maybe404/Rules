@@ -16,7 +16,7 @@ DOMAIN,emby-e-jp.pppp.us.kg //日本软银 https://emby-e-jp.pppp.us.kg:443
 IP-CIDR,156.229.165.55/32,no-resolve  //US http://156.229.165.55:10010
 
 # HXD
-DOMAIN,as174.de //自建CDN https://hxd.as174.de:443
+DOMAIN,hxd.as174.de //自建CDN https://hxd.as174.de:443
 DOMAIN,cf.bili.rip //CF路线 https://cf.bili.rip:8443
 DOMAIN,emby.as174.de //Porn https://emby.as174.de:443
 
