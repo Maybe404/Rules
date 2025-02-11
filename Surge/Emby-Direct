@@ -4,7 +4,7 @@
 DOMAIN-SUFFIX,makima.online
 
 # HXD
-DOMAIN,as174.de //自建CDN https://hxd.as174.de:443
+DOMAIN,hxd.as174.de //自建CDN https://hxd.as174.de:443
 
 # 鹅服
 DOMAIN,cavps.eu.org //CF https://cavps.eu.org:443
