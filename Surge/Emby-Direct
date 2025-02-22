@@ -18,6 +18,7 @@ DOMAIN,emby-e-jp.pppp.us.kg //日本软银 https://emby-e-jp.pppp.us.kg:443
 IP-CIDR,156.229.165.55/32,no-resolve  //US http://156.229.165.55:10010
 IP-CIDR,45.192.243.75/32,no-resolve //测试 http://45.192.243.75:9092/
 IP-CIDR,156.231.113.243/32,no-resolve //测试http://156.231.113.243:10010
+IP-CIDR,156.231.113.41/32,no-resolve //测试2http://156.231.113.41:9092
 
 # 守候影院-反代
 DOMAIN,emby.123423.xyz
