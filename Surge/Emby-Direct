@@ -4,17 +4,17 @@
 DOMAIN-SUFFIX,makima.online
 
 # HXD
-DOMAIN,hxd.as174.de //自建CDN https://hxd.as174.de:443
+# DOMAIN,hxd.as174.de //自建CDN https://hxd.as174.de:443
 
 # 鹅服
 DOMAIN,cavps.eu.org //CF https://cavps.eu.org:443
 IP-CIDR,50.114.55.29/32,no-resolve //SG http://50.114.55.29:10010 
 DOMAIN,wmxz.567996.xyz //首尔 http://wmxz.567996.xyz:80
-DOMAIN,emby.pppp.us.kg //日本 https://emby.pppp.us.kg:443
+DOMAIN,e-jp.vfing.de //日本 http://e-jp.vfing.de:443
 IP-CIDR,154.29.145.151/32,no-resolve  //4837 http://154.29.145.151:50632
 IP-CIDR,141.11.175.105/32,no-resolve  //HK http://141.11.175.105:10010
 DOMAIN,emby-e-hk.pppp.us.kg //HK02 https://emby-e-hk.pppp.us.kg:443
-DOMAIN,emby-e-jp.pppp.us.kg //日本软银 https://emby-e-jp.pppp.us.kg:443
+DOMAIN,e-jp-2.vfing.de //日本软银 http://e-jp-2.vfing.de:443
 IP-CIDR,156.229.165.55/32,no-resolve  //US http://156.229.165.55:10010
 IP-CIDR,45.192.243.75/32,no-resolve //测试 http://45.192.243.75:9092/
 IP-CIDR,156.231.113.243/32,no-resolve //测试http://156.231.113.243:10010
