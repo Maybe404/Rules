@@ -19,3 +19,6 @@ DOMAIN,yd.28.al //国内中转
 
 # 映月
 DOMAIN-SUFFIX,985211.link
+
+# 薯片
+DOMAIN,emby.365115.xyz:443
