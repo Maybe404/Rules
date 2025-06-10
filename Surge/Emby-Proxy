@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,omni.313445.xyz
 DOMAIN-SUFFIX,restrict.313445.xyz
 
 # 薯片
-DOMAIN,proxy.365115.xyz
+DOMAIN,emby.365115.xyz
 
 # 守候影院
 DOMAIN,emby.cn2gias.uk //http://emby.cn2gias.uk:80,https://emby.cn2gias.uk:443
