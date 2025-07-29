@@ -5,16 +5,16 @@ DOMAIN-SUFFIX,aikan.cloud
 DOMAIN-SUFFIX,aikan.la
 
 # 硬月
-DOMAIN-SUFFIX,hardmoon.net //主线路
-DOMAIN-SUFFIX,dc9.hardmoon.net //线路二
+DOMAIN-SUFFIX,hardmoon.net
+DOMAIN-SUFFIX,dc9.hardmoon.net
 
 #Rec
 DOMAIN-SUFFIX,recmata.net
 
 # HXD
-DOMAIN,hxd.as174.de //自建CDN https://hxd.as174.de:443
-DOMAIN,cf.bili.rip //CF路线 https://cf.bili.rip:8443
-DOMAIN,emby.as174.de //Porn https://emby.as174.de:443
+DOMAIN,hxd.as174.de
+DOMAIN,cf.bili.rip
+DOMAIN,emby.as174.de
 
 # Fac
 DOMAIN-SUFFIX,omni.313445.xyz
@@ -24,4 +24,4 @@ DOMAIN-SUFFIX,restrict.313445.xyz
 DOMAIN,emby.365115.xyz
 
 # 守候影院
-DOMAIN,emby.cn2gias.uk //http://emby.cn2gias.uk:80,https://emby.cn2gias.uk:443
+DOMAIN,emby.cn2gias.uk
