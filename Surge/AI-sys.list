@@ -1,0 +1,14 @@
+# perplexity ai
+
+# 主域名（覆盖所有子域名）
+DOMAIN-SUFFIX,perplexity.ai
+
+# 替代域名
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+
+# CDN 服务
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
+
+# 认证服务
+DOMAIN,perplexity-ai.cloudflareaccess.com
