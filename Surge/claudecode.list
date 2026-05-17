@@ -27,7 +27,27 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,cdn.usefathom.com
 
+# HubSpot（Claude 官方 connector）
+DOMAIN-SUFFIX,hubspot.com
+DOMAIN-SUFFIX,hubspot.net
+DOMAIN-SUFFIX,hsforms.com
+DOMAIN-SUFFIX,hsappstatic.net
+
+# Netlify（Claude 官方 connector / AI Gateway）
+DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,netlify.global
+
+# Intercom 相关域补完
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercom-clicks.com
+
+# Fathom Analytics 全域
+DOMAIN-SUFFIX,usefathom.com
+
 # IP 段 / ASN 兜底
+IP-CIDR,209.249.57.0/24,no-resolve
 IP-CIDR,160.79.104.0/21,no-resolve
 IP-CIDR6,2607:6bc0::/32,no-resolve
 IP-ASN,399358,no-resolve
